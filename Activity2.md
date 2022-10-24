@@ -8,6 +8,8 @@ if (Hungry) then (<color:red>yes)
   :Take a nap;
 (no) elseif (Sad?) then (<color:green>yes)
   :Pet a cat;
+  :and a dog;
+  :eat some snacks;
 else (Content with life?)
   :Good for you :);
 endif
