@@ -1,3 +1,4 @@
+```plantuml
 @startuml
 start
 if (Hungry) then (<color:red>yes)
