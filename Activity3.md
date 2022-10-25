@@ -1,4 +1,4 @@
-```plantumö
+```plantuml
 @startuml
 
 repeat:raw data;
